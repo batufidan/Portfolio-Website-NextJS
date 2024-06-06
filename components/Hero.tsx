@@ -26,7 +26,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Batuhan, a Senior UX/UI Designer and Developer in a
+            Hi, I'm Batuhan, a Senior UX/UI Designer and Software Developer in a
             Dubai,UAE
           </p>
           <a href="#about">
